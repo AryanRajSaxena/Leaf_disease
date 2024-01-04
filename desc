@@ -1,1 +1,1 @@
-new file
+I have created 7 models, one for each wavelength. I have less data so my accuracy is not so good but as I have 7 models I am using voting ensemble to predict my final result.
